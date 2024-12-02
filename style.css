@@ -1,0 +1,112 @@
+.Css {
+    text-align: center;
+    text-size-adjust: 20px;
+    color: aliceblue;
+    background-color: black;
+    text-decoration: underline;
+}
+
+.form {
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgba(74, 63, 47, 0.5);
+}
+
+p {
+    background-color: bisque;
+    color: blue;
+    font-style: italic;
+    word-spacing: 10px;
+}
+
+table,
+th,
+td {
+    background-color: rgb(93, 166, 239);
+    font-size: large;
+    border: 2px solid black;
+    width: 40%;
+    text-align: center;
+    font-family: monospace;
+}
+
+.table {
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgba(72, 255, 0, 0.511);
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    width: 100%;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+input[type="reset"] {
+    background-color: #4CAF50;
+    color: white;
+    width: 100%;
+    padding: 13px 20px;
+    border: none;
+    margin: 10px 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="text"] {
+    width: 50%;
+    padding: 14px 18px;
+    margin: 8px 0;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+}
+
+input[type="email"] {
+    width: 50%;
+    padding: 14px 18px;
+    margin: 8px 0;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+}
+
+input[type="password"] {
+    width: 50%;
+    padding: 14px 18px;
+    margin: 8px 0;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+}
+
+input[type="radio"] {
+    font-size: larger;
+    font-family: monospace;
+    cursor: pointer;
+    width: 50px;
+}
+
+select {
+    width: 50%;
+    padding: 14px 18px;
+    margin: 8px 0;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+}
+
+#terms {
+    cursor: pointer;
+    font-size: large;
+}
